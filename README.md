@@ -28,13 +28,7 @@ to
   - CMakeCache.txt
   -  CMakeFiles
     - 3.16.3
-        - CMakeCCompiler.cmake
-        - CMakeCXXCompiler.cmake
-        - CMakeDetermineCompilerABI_C.bin
-        - CMakeDetermineCompilerABI_CXX.bin
-        - CMakeSystem.cmake
-        - CompilerIdC
-            ...
+        - ...
     - cmake.check_cache
     - CMakeOutput.log
     - CMakeTmp
