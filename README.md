@@ -23,26 +23,26 @@ to
 - 05_generateEclipseProject.sh
 - CMakeLists.txt
 - project
-  - *app
-    - *main.c
-  - *CMakeCache.txt
-  - * CMakeFiles
-    - * 3.16.3
-        - *CMakeCCompiler.cmake
-        - *CMakeCXXCompiler.cmake
-        - *CMakeDetermineCompilerABI_C.bin
-        - *CMakeDetermineCompilerABI_CXX.bin
-        - *CMakeSystem.cmake
-        - *CompilerIdC
+  - app
+    - main.c
+  - CMakeCache.txt
+  -  CMakeFiles
+    - 3.16.3
+        - CMakeCCompiler.cmake
+        - CMakeCXXCompiler.cmake
+        - CMakeDetermineCompilerABI_C.bin
+        - CMakeDetermineCompilerABI_CXX.bin
+        - CMakeSystem.cmake
+        - CompilerIdC
             ...
-    - *cmake.check_cache
-    - *CMakeOutput.log
-    - *CMakeTmp
-  - * CMakeLists.txt
-  - * generateEclipseProject.sh
-  - *include
+    - cmake.check_cache
+    - CMakeOutput.log
+    - CMakeTmp
+  - CMakeLists.txt
+  - generateEclipseProject.sh
+  - include
     - header.h
-  - *src
+  - src
     - src.c
-  - *tests
+  - tests
     - test.c
