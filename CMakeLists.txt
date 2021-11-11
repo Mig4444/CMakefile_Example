@@ -3,10 +3,10 @@
 #cmake -G Eclipse - Unix Makefiles
 
 #XXXX sections are to be adapted in function of the project
-set(CMakeVersion CMAKE__ARV0)
-set(ProjectName CMAKE__ARV1)
-set(LibraryName CMAKE__ARV2)
-set(IncludeName CMAKE__ARV3)
+set(CMakeVersion "3.16.3")
+set(ProjectName XXXX)
+set(LibraryName YYYY)
+set(IncludeName ZZZZ)
 
 #CMake version to be used
 cmake_minimum_required(VERSION ${CMakeVersion})
