@@ -4,6 +4,7 @@ This repository contains an example of a CMakeLists.txt and some other scripts a
 The purpose of all files is to be able to generate an eclipse project structure with one click
 
 Passing from 
+
 |-00_buildEclipseProject.sh
 |- 01_basic_main.c
 |- 02_src.c
