@@ -42,7 +42,7 @@ to
   - * generateEclipseProject.sh
   - *include
     - header.h
-  - * src
+  - *src
     - src.c
-  - * tests
-
+  - *tests
+    - test.c
