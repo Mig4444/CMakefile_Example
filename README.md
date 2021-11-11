@@ -4,24 +4,24 @@ This repository contains an example of a CMakeLists.txt and some other scripts a
 The purpose of all files is to be able to generate an eclipse project structure with one click
 
 Passing from 
-├── 00_buildEclipseProject.sh
-├── 01_basic_main.c
-├── 02_src.c
-├── 03_header.h
-├── 04_BuildStructure.sh
-├── 05_generateEclipseProject.sh
-└── CMakeLists.txt
+── 00_buildEclipseProject.sh
+── 01_basic_main.c
+── 02_src.c
+── 03_header.h
+── 04_BuildStructure.sh
+── 05_generateEclipseProject.sh
+── CMakeLists.txt
 
 to 
 
-├── 00_buildEclipseProject.sh
-├── 01_basic_main.c
-├── 02_src.c
-├── 03_header.h
-├── 04_BuildStructure.sh
-├── 05_generateEclipseProject.sh
-├── CMakeLists.txt
-└── project
+── 00_buildEclipseProject.sh
+── 01_basic_main.c
+── 02_src.c
+── 03_header.h
+── 04_BuildStructure.sh
+── 05_generateEclipseProject.sh
+── CMakeLists.txt
+── project
     ├── app
     │   └── main.c
     ├── CMakeCache.txt
